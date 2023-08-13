@@ -3,12 +3,13 @@
     "development"
   ],
   "hints": {
+    "disown-opener": "off",
+    "button-type": "off",
     "axe/keyboard": [
       "default",
       {
         "nested-interactive": "off"
       }
-    ],
-    "button-type": "off"
+    ]
   }
 }
